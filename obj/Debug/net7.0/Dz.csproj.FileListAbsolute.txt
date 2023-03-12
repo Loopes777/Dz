@@ -1,0 +1,15 @@
+/Users/loopes/Desktop/Dz/bin/Debug/net7.0/Dz
+/Users/loopes/Desktop/Dz/bin/Debug/net7.0/Dz.deps.json
+/Users/loopes/Desktop/Dz/bin/Debug/net7.0/Dz.runtimeconfig.json
+/Users/loopes/Desktop/Dz/bin/Debug/net7.0/Dz.dll
+/Users/loopes/Desktop/Dz/bin/Debug/net7.0/Dz.pdb
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/Dz.csproj.AssemblyReference.cache
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/Dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/Dz.AssemblyInfoInputs.cache
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/Dz.AssemblyInfo.cs
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/Dz.csproj.CoreCompileInputs.cache
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/Dz.dll
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/refint/Dz.dll
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/Dz.pdb
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/Dz.genruntimeconfig.cache
+/Users/loopes/Desktop/Dz/obj/Debug/net7.0/ref/Dz.dll

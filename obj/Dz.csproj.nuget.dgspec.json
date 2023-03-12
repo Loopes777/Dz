@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/loopes/Desktop/Dz/Dz.csproj": {}
+  },
+  "projects": {
+    "/Users/loopes/Desktop/Dz/Dz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/loopes/Desktop/Dz/Dz.csproj",
+        "projectName": "Dz",
+        "projectPath": "/Users/loopes/Desktop/Dz/Dz.csproj",
+        "packagesPath": "/Users/loopes/.nuget/packages/",
+        "outputPath": "/Users/loopes/Desktop/Dz/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/loopes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
